@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-06-26'
 papers:
   qa2S_-sAAAAJ:4DMP91E08xMC:
-    citations: 0
+    citations: 1
     title: 'PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training'
     year: '2026'
   qa2S_-sAAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 1
     title: Skilled AI Agents for Embedded and IoT Systems Development
     year: '2026'
   qa2S_-sAAAAJ:LkGwnXOMwfcC:
-    citations: 39
+    citations: 41
     title: 'Transformloc: Transforming mavs into mobile localization infrastructures in heterogeneous swarms'
     year: '2024'
   qa2S_-sAAAAJ:UebtZRa9Y70C:
-    citations: 4
+    citations: 5
     title: 'SniffySquad: Patchiness-aware gas source localization with multi-robot collaboration'
     year: '2024'
   qa2S_-sAAAAJ:WF5omc3nYNoC:
@@ -22,18 +22,18 @@ papers:
     title: 'Poster: Olfactory Sensing in Turbulent Airflow via Collaborative Robots'
     year: '2024'
   qa2S_-sAAAAJ:_FxGoFyzp5QC:
-    citations: 58
+    citations: 60
     title: 'Soscheduler: Toward proactive and adaptive wildfire suppression via multi-uav collaborative scheduling'
     year: '2024'
   qa2S_-sAAAAJ:hC7cP41nSMkC:
-    citations: 45
+    citations: 46
     title: 'H-swarmloc: Efficient scheduling for localization of heterogeneous mav swarm with deep reinforcement learning'
     year: '2022'
   qa2S_-sAAAAJ:roLk4NBRz8UC:
-    citations: 9
+    citations: 12
     title: Multi-Agent Target Pursuit Using Perception Uncertainty-Aware Reinforcement Learning
     year: '2024'
   qa2S_-sAAAAJ:ufrVoPGSRksC:
-    citations: 49
+    citations: 52
     title: 'Ddl: Empowering delivery drones with large-scale urban sensing capability'
     year: '2024'
