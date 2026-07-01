@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-01'
 papers:
   qa2S_-sAAAAJ:4DMP91E08xMC:
-    citations: 1
+    citations: 3
     title: 'PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training'
     year: '2026'
   qa2S_-sAAAAJ:4JMBOYKVnBMC:
@@ -10,7 +10,7 @@ papers:
     title: Skilled AI Agents for Embedded and IoT Systems Development
     year: '2026'
   qa2S_-sAAAAJ:LkGwnXOMwfcC:
-    citations: 41
+    citations: 42
     title: 'Transformloc: Transforming mavs into mobile localization infrastructures in heterogeneous swarms'
     year: '2024'
   qa2S_-sAAAAJ:UebtZRa9Y70C:
@@ -22,7 +22,7 @@ papers:
     title: 'Poster: Olfactory Sensing in Turbulent Airflow via Collaborative Robots'
     year: '2024'
   qa2S_-sAAAAJ:_FxGoFyzp5QC:
-    citations: 60
+    citations: 62
     title: 'Soscheduler: Toward proactive and adaptive wildfire suppression via multi-uav collaborative scheduling'
     year: '2024'
   qa2S_-sAAAAJ:hC7cP41nSMkC:
@@ -30,10 +30,10 @@ papers:
     title: 'H-swarmloc: Efficient scheduling for localization of heterogeneous mav swarm with deep reinforcement learning'
     year: '2022'
   qa2S_-sAAAAJ:roLk4NBRz8UC:
-    citations: 12
+    citations: 13
     title: Multi-Agent Target Pursuit Using Perception Uncertainty-Aware Reinforcement Learning
     year: '2024'
   qa2S_-sAAAAJ:ufrVoPGSRksC:
-    citations: 52
+    citations: 53
     title: 'Ddl: Empowering delivery drones with large-scale urban sensing capability'
     year: '2024'
