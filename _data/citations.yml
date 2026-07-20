@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-20'
 papers:
   qa2S_-sAAAAJ:4DMP91E08xMC:
     citations: 3
@@ -34,6 +34,6 @@ papers:
     title: Multi-Agent Target Pursuit Using Perception Uncertainty-Aware Reinforcement Learning
     year: '2024'
   qa2S_-sAAAAJ:ufrVoPGSRksC:
-    citations: 53
+    citations: 54
     title: 'Ddl: Empowering delivery drones with large-scale urban sensing capability'
     year: '2024'
