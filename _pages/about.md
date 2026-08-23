@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at Duke ECE in CEI Lab. My research interest lie in LLM Adaptation, Multi-agent system.
+I am a Ph.D. student in Electrical and Computer Engineering at Duke University, advised by Prof. Yiran Chen and Prof. Hai “Helen” Li. in the CEI Lab. My research interests center on LLM Alignment, Multi-Agent Systems, and Agentic AI.
 
 Previously, I received my M.S. and B.E. from Tsinghua University and Sun Yat-sen University, respectively.
