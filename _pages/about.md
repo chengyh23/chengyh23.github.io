@@ -12,6 +12,8 @@ profile:
   #   <p>Durham, NC</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+teaching_experience: # shown below selected publications
+  - "**Teaching Assistant, ECE 661: Machine Learning and Deep Neural Nets** (Fall 2026) — Duke University"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -28,7 +30,3 @@ latest_posts:
 I am a Ph.D. student in Electrical and Computer Engineering at Duke University, advised by Prof. Yiran Chen and Prof. Hai “Helen” Li. in the CEI Lab. My research interests center on Multi-Agent Systems, AI Alignment, LLM Post-Training, Agentic AI, and Interpretability.
 
 Previously, I received my M.S. and B.E. from Tsinghua University and Sun Yat-sen University, respectively.
-
-## Teaching Experience
-
-**Teaching Assistant, ECE 661: Machine Learning and Deep Neural Nets** (Fall 2026) — Duke University

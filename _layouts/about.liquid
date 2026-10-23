@@ -71,6 +71,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Teaching experience -->
+    {% if page.teaching_experience %}
+      <h2>teaching experience</h2>
+      {% for item in page.teaching_experience %}
+        {{ item | markdownify }}
+      {% endfor %}
+    {% endif %}
+
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
